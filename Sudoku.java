@@ -1,4 +1,4 @@
-package com.example.galel.sudoku;
+package com.example.shmueleliasyan.sudoku;
 
 import java.util.Scanner;
 public class Sudoku {
