@@ -1,4 +1,4 @@
-package com.example.galel.sudoku;
+package com.example.shmueleliasyan.sudoku;
 
 import android.content.res.ColorStateList;
 import android.graphics.Color;
