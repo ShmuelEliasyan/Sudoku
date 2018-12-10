@@ -1,4 +1,4 @@
-package com.example.galel.sudoku;
+package com.example.shmueleliasyan.sudoku;
 
 public class SudokuPuzzle {
     int[][] board;
